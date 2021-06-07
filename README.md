@@ -1,5 +1,5 @@
 # PygameLOZReskin
-A Pygame game heavily inspired by the Legend Of Zelda but with custom sprites (WIP)
+Year 12 project
 
 ## Character Class Skeleton Code
 ```py
